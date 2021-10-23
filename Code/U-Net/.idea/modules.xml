@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Pytorch-UNet/.idea/Pytorch-UNet.iml" filepath="$PROJECT_DIR$/../../Pytorch-UNet/.idea/Pytorch-UNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/U-Net.iml" filepath="$PROJECT_DIR$/.idea/U-Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Jiangyu/CV/Code/DeepLearning/U-Net++/.idea/U-Net++.iml" filepath="$PROJECT_DIR$/../../../../Jiangyu/CV/Code/DeepLearning/U-Net++/.idea/U-Net++.iml" />
+    </modules>
+  </component>
+</project>
